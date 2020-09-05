@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Realtime Database</string>
+    <array name="genres">
+        <item>rok</item>
+        <item>cok</item>
+        <item>mos</item>
+    </array>
+</resources>
